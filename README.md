@@ -1,2 +1,1 @@
 # wilemijn.github.io
-school
